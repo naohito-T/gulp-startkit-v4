@@ -17,8 +17,8 @@ npm install or yarn install
 # Usage
 
 ```bash
-git clone https://github.com/naohito-T/webpack-settings-ver4
-cd webpack-settings-ver4
+git clone https://github.com/naohito-T/gulp-startkit-v4
+cd gulp-startkit-v4
 ```
 
 # Author
