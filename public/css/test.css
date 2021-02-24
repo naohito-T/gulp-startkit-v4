@@ -1,0 +1,12 @@
+#main {
+  width: 500px;
+  border: 1px solid #f00;
+}
+
+#main p {
+  margin: 10px;
+}
+
+#main div {
+  margin: 10px;
+}
